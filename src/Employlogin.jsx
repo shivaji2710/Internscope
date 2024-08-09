@@ -47,7 +47,7 @@ function Employlogin() {
               </div>
               <input className="w-full mb-[1vw] rounded-md py-[0.3vw]" type="password" placeholder="Password" />
               <input className="w-full mb-[1vw] rounded-md py-[0.3vw]" type="password" placeholder="Confirm Password" />
-              <input className="w-full mb-[1vw] rounded-md py-[0.3vw]" type="text" placeholder="Mobile Number " />
+              {/* <input className="w-full mb-[1vw] rounded-md py-[0.3vw]" type="text" placeholder="Mobile Number " />
               <div className='Work-status* w-full  bg-red]'>
               <h1>Work Status*</h1>
                 <div className='flex gap-[2vw] w-full'>
@@ -65,7 +65,7 @@ function Employlogin() {
                     </div>
               </div>
               </div> 
-              </div>
+              </div> */}
               <button className="rounded-md py-[0.5vw] text-white mt-[1vw] bg-[#2b6566] w-full">SignUp</button>
             </div>
           </>

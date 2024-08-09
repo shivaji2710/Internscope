@@ -45,6 +45,24 @@ function Employlogin() {
               <input className="w-full mb-[1vw]  border border-b-2 rounded-md py-[0.3vw]" type="password" placeholder="Password" />
               <input className="w-full mb-[1vw] rounded-md  border border-b-2 py-[0.3vw]" type="password" placeholder="Confirm Password" />
               <input className="w-full mb-[1vw] rounded-md py-[0.3vw]  border border-b-2" type="text" placeholder="Mobile Number " />
+              <div className='Work-status* w-full  bg-red]'>
+              <h1>Work Status*</h1>
+                <div className='flex gap-[2vw] w-full'>
+              <div className='w-[15vw] text-[1vw] rounded-xl'>
+                <div className='flex'>
+                    <h1 className='font-bold'>I'm experienced <p className='font-semibold'>I have work experience (excluding internships)</p></h1>
+                    
+                  <img src="https://static.naukimg.com/s/7/104/assets/images/briefcase.bdc5fadf.svg" alt="" />
+                  </div>
+              </div>
+              <div className='w-[15vw] rounded-xl text-[1vw]'>
+                <div className='flex'>
+                    <h1 className='font-bold'>I'm a fresher <p className='font-semibold'> I am a student/ Haven't worked after graduation</p></h1>
+                    <img src="https://static.naukimg.com/s/7/104/assets/images/schoolbag.a54cbf7a.svg" alt="" />
+                    </div>
+              </div>
+              </div> 
+              </div>
               <button className="rounded-md py-[0.5vw] text-white mt-[1vw] bg-[black] w-full">SignUp</button>
             </div>
           </>
