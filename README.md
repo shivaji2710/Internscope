@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# internscope
+# internscopeeeeeee
+# internscopeeeeeeeeeeeee
 =======
 # React + Vite
 
